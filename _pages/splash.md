@@ -20,10 +20,10 @@ invrs-io's mission is to accelerate photonic inverse design research with improv
 
 ## invrs-gym
 The [**invrs-gym**](https://invrs-io.github.io/gym/) is a collection of nanophotonic inverse design challenges with a common API. Gym challenges are based on real-world photonics design problems from fields such as imaging, AR/VR, and optical networking. The gym abstracts away the details of photonics and the underlying simulation, making it accessible to a broad range of researchers including optimization and AI scientists. For photonics designers, gym challenges serves a template for constructing new inverse design challenges.
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/gym.png){: .align-center}
+![image-center]({{ site.baseurl }}/assets/images/gym.png){: .align-center}
 
 ## leaderboard
 The [**leaderboard**](https://invrs-io.github.io/leaderboard/) is a datset of solutions to inverse design challenges, including results from multiple publications by several different research groups. Together with the gym, the leaderboard enables benchmarking of inverse design algorithms.
 
 ## invrs-opt
-![levelset-optimization]({{ site.url }}{{ site.baseurl }}/assets/images/levelset.gif){: .align-right} The [**invrs-opt**](https://github.com/invrs-io/opt/) package contains several optimizers suitable for nanophotonic inverse design.
+![levelset-optimization]({{ site.baseurl }}/assets/images/levelset.gif){: .align-right} The [**invrs-opt**](https://github.com/invrs-io/opt/) package contains several optimizers suitable for nanophotonic inverse design.
